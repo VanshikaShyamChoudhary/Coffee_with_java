@@ -5,7 +5,7 @@ On the way of learning ✨
 # Welcome to my Coding world 🗺️
 
 * It always excites me whenever I do anything have my heart in 🫀.... ✨ ✨ ✨
-* It fascinates me when I apply my own logic instead seeking of others, I really don't enjoy copy-paste method, but I have tried that for sure, in beginning in 1, 2 programs.....
+* It fascinates me when I apply my own logic instead seeking of others, I really don't enjoy copy-paste method, but I have tried that for sure, in beginning in 3, 4 programs.....
 * BUT when I did the program with my own logic it just awoke the sleeping coder inside me.
   
 * ### 🌼 Here’s the first program where I applied my own brain and felt proud:
